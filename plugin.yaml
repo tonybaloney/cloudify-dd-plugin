@@ -1,0 +1,6 @@
+plugins:
+  # Name could be anything, this name is what appears on the beginning of operation
+  # mappings.
+  dd:
+    executor: central_deployment_agent
+    source: https://github.com/cloudify-cosmo/cloudify-plugin-template/archive/master.zip
