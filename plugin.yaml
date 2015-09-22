@@ -3,4 +3,4 @@ plugins:
   # mappings.
   dd:
     executor: central_deployment_agent
-    source: https://github.com/cloudify-cosmo/cloudify-plugin-template/archive/master.zip
+    source: https://github.com/tonybaloney/cloudify-dd-plugin/archive/master.zip
